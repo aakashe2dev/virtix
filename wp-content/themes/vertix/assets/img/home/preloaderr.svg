@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 65" width="179" height="65">
+	<title>Logo-Virtix-svg</title>
+	<style>
+		.s0 { fill: #242422 } 
+		.s1 { fill: #00497d } 
+		.s2 { fill: #5bad66 } 
+	</style>
+	<path id="Layer" class="s0" d="m72.4 3.4h3.9l6.4 18.6h-3.9l-4.3-13.3h-0.1l-4.2 13.3h-4.2z"/>
+	<path id="Layer" class="s0" d="m90.9 3.5h4v18.5h-4z"/>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m104.6 22v-18.5h4v7h2.4l3.9-7h4.3l-4.1 7.5c2.5 0.8 3.9 2.4 3.9 5.3c0 4.1-2.7 5.7-7.3 5.7zm6.9-8.3h-2.8v5h2.8c2.4 0 3.5-0.7 3.5-2.5c0-1.9-1.2-2.6-3.5-2.6z"/>
+		<path id="Layer" class="s0" d="m131.7 3.4h4.1v15.2h5.5v3.4h-15.1v-3.4h5.5z"/>
+		<path id="Layer" class="s0" d="m149.7 3.5h4v18.5h-4z"/>
+		<path id="Layer" class="s0" d="m162.4 3.4h4.2l3.8 6.5l4-6.5h4.5l-6 9.8l5.3 8.8h-4.2l-3.2-5.6l-3.3 5.6h-4.6l5.4-8.8z"/>
+		<path id="Layer" class="s1" d="m63.6 54.7h-5.4l-17.5-26.7c-1.3-1.9-4.1-1.9-5.3 0l-17.5 26.7h-13.6c-3.4 0-5.4-3.8-3.6-6.6l29.6-45.3c1.7-2.6 5.4-2.6 7.1 0l29.6 45.3c2 2.8-0.1 6.6-3.4 6.6z"/>
+		<path id="Layer" class="s2" d="m28.1 54.7l7.6-11.7c1.1-1.6 3.5-1.6 4.5 0l7.7 11.7l4 6.1c1.2 1.8-0.1 4.2-2.2 4.2h-23.4c-2.1 0-3.4-2.4-2.3-4.2z"/>
+	</g>
+</svg>
